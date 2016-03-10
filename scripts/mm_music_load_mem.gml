@@ -1,0 +1,1 @@
+return external_call(global.__mm_dll_load_music_mem,argument0,argument1)
